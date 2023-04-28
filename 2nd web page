@@ -1,0 +1,49 @@
+<html>
+<body>
+ <style>
+body {
+  background-image: url('https://i.pinimg.com/736x/1a/ee/5c/1aee5c344846f449350feae457ea350e.jpg?hl=en_US');
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: 100% 100%;
+}
+</style> 
+
+
+
+
+
+<h1>Health is a outfit that look good on everybody </h1>
+<h2> Arhtritis</h2>
+<img src="https://st1.thehealthsite.com/wp-content/uploads/2020/05/arthritis-1.jpg?hl=en_US" width="250" height="250" alt="knee problem">
+<p>Regular exercise can help keep joints flexible. 
+Swimming and water aerobics may be good choices because the buoyancy of the water reduce
+<br>stress on weight-bearing joints. 
+Heat and cold.
+<br> Heating pads or ice packs may help relieve arthritis pain
+<br>->Exercise regularly
+<br>->Reduce salt (sodium) in your diet
+<br>->Get a good night's sleep
+<br>->Quite smoking and alcohol</p>
+<P><h2>Hearing problem</h2>
+<img src="https://s3-us-east-2.amazonaws.com/maryville/wp-content/uploads/2021/03/01154035/MVU-Skyscraper-3-Hearing-Loss-Types-header-v3.jpg?hl=en_US" width="250" height="250" alt="knee problem">
+<br>A cochlear implant is a small electronic device that can help improve the hearing of people with severe,
+<br> irreversible hearing loss. Although a cochlear implant does not restore normal hearing,
+<br> it can allow a person to hear and understand more speech than was possible with a hearing aid.</p>
+<p><h2>Knee problem</h2>
+<img src="https://www.hopkinsmedicine.org/-/media/images/health/2_-treatment/orthopedics/knee-pain-teaser.ashx?hl=en_US" width="250" height="250" alt="knee problem">
+<br>Mild knee injuries often improve with rest, ice and anti-inflammatory medications. 
+<br>Wearing a brace can stabilize your knee while it recovers. If arthritis is causing knee pain,
+<br> your treatment may include medication and physical therapy.</p>
+<p>
+<h2>Heart issue</h2>
+<img src="https://media.istockphoto.com/id/1128931450/photo/heart-attack-concept.jpg?s=612x612&w=0&k=20&c=XHOhTXhpZMSV6XIhXLbH6uvNQjZQS93b1UetGfqQXtI=&hl=en_US" width="250" height="250" alt="heart problem">
+Try to limit saturated fats, foods high in sodium, and added sugars. Eat plenty of fresh fruit, vegetables, 
+<br>and whole grains. The DASH diet is an example of an eating plan that can help you to lower your blood pressure and cholesterol,
+<br>two things that can lower your risk of heart disease. Get regular exercise.</p>
+<P></p>
+
+<a href="file:///C:/Users/Asus/OneDrive/Desktop/progam.html"target="_blank">previous</a>
+
+</body>
+</html>
